@@ -518,7 +518,7 @@ sns.lineplot(data=total_births)
 
 
 
-![png](output_3_1.png)
+![png](/home/jake_ockerby/Python/baby_names/output_3_1.png)
 
 
 
@@ -3186,7 +3186,7 @@ sns.lineplot(data=subset) # plot to summarize how specific names change in popul
 
 
 
-![png](output_8_1.png)
+![png](/home/jake_ockerby/Python/baby_names/output_8_1.png)
 
 
 
@@ -3558,7 +3558,7 @@ sns.lineplot(data=name_diversity) # plot showing that first names have become mu
 
 
 
-![png](output_10_1.png)
+![png](/home/jake_ockerby/Python/baby_names/output_10_1.png)
 
 
 
@@ -6726,7 +6726,7 @@ plt.ylabel('Percentage of Total Births') # graph shows most popular first letter
 
 
 
-![png](output_15_1.png)
+![png](/home/jake_ockerby/Python/baby_names/output_15_1.png)
 
 
 
@@ -8333,7 +8333,7 @@ plt.ylabel('Percentage of Total Births') # graph shows most popular first letter
 
 
 
-![png](output_18_1.png)
+![png](/home/jake_ockerby/Python/baby_names/output_18_1.png)
 
 
 
